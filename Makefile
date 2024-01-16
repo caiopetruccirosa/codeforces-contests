@@ -5,4 +5,3 @@ build:
 
 run: build
 	.$(dirname $(FILE))/$(basename $(FILE))
-
