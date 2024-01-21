@@ -1,0 +1,8 @@
+link: https://codeforces.com/contest/1921
+solved during:
+    A
+    B
+    C
+    D
+solved upsolving:
+    none

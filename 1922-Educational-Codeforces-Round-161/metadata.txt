@@ -1,0 +1,5 @@
+link: https://codeforces.com/contest/1922
+solved during:
+    A
+solved upsolving:
+    none
